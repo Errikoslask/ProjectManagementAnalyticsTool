@@ -42,7 +42,7 @@ This tool provides comprehensive project scheduling and risk analysis through ma
 - Critical path identification
 - Project duration optimization
 
-- **Currently Available:**
+###Currently Available:
 - 🎮 **Manual Input** - Interactive console with real-time validation
 - 🚀 **Sample Project** - Pre-built example for immediate testing
 
