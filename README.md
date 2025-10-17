@@ -57,3 +57,10 @@ This tool provides comprehensive project scheduling and risk analysis through ma
 **Mathematical Modeling**: Project scheduling optimization  
 **Data Analytics**: Project metrics and KPI calculation
 
+**Currently Available:**
+- 🎮 **Manual Input** - Interactive console with real-time validation
+- 🚀 **Sample Project** - Pre-built example for immediate testing
+
+**Planned for the Future:**
+- 📊 Excel/CSV file import
+
