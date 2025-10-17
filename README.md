@@ -4,7 +4,7 @@ A sophisticated Python-based analytics tool for project management that implemen
 
 ## 📊 Overview
 
-This tool provides comprehensive project scheduling and risk analysis through mathematical modeling and statistical methods. It helps project managers identify critical tasks, estimate project duration, and assess completion probabilities under uncertainty, and can solve scheduling problems across multiple industries.
+This tool provides comprehensive project scheduling and risk analysis through mathematical modeling and statistical methods. It helps project managers identify critical tasks, estimate project duration, assess completion probabilities under uncertainty, and can solve scheduling problems across multiple industries.
 
 ## 🚀 Key Features
 
